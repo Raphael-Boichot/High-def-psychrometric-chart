@@ -1,4 +1,4 @@
-# High definition psychrometric chart
+# A high definition psychrometric chart for teachers
 A high definition psychrometric chart for teaching humidification operations without the pain. The chart was closely redrawn from a document issued by a French heating company defunct in 1970. The original that I still own (in something close to A1 format) is a real piece of art drawn by hand. It deserved a digitalization, here it is.
 
 I used this precise chart as student in chemical engineering around 1999 and use it for teaching the same since 2007. I never got used to another one as this is by far the most comprehensive version I've ever found, it contains some unusual (and very handy) features:

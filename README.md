@@ -12,6 +12,6 @@ I used it as student in chemical engineering around 1999 and use it for teaching
  - The vapor pressure of water is given in Pa instead of kg per square centimeters;
  - x-axis and y-axis are othogonal now.
 
-The repo contains a high resolution pdf and the law res raster source files I used to draw it. The PNG file is just a low res preview, do not use it. It is meant to be printed in A3 for better reading even if A4 may be OK for students. The enthalpy units are in calories on purpose.
+The repo contains a high resolution pdf and the law res raster source files I used to digitalize it (it's a scan of an A3 reduction the original chart but I do not remind where I got it). The PNG file is just a low res preview, do not use it. The chart is meant to be printed in A3 for better reading even if A4 may be OK for students. The enthalpy units are in calories on purpose.
 
 ![](/Psychrometric_chart.png)

@@ -1,5 +1,7 @@
 # High definition psychrometric chart
-A high definition psychrometric chart for teaching humidification operations without pain. The chart was freely adapted from a working document of a French company defunct in 1970, so I guess the data are in the public domain now. The original that I own in A2 format is a real piece of art drawn by hand. I used it as student in chemical engineering around 1999 and use it for teaching the same since 2007. This is by far the most comprenhensive version I've ever found, it contains some uncommon features:
+A high definition psychrometric chart for teaching humidification operations without pain. The chart was freely adapted from a working document of a French company defunct in 1970, so I guess the data are in the public domain now. The original that I still own in something close to A1 format is a real piece of art drawn by hand. It deserved a digitalization.
+
+I used it as student in chemical engineering around 1999 and use it for teaching the same since 2007. This is by far the most comprenhensive version I've ever found, it contains some uncommon features:
 - The iso-enthalpy lines and the wet bulb temperature are drawn separately, which is very uncommon as both are generally confused;
 - A compass to generate the unit operation of air saturation with the minimal quantity of a given water source is given, as it is rather difficult to plot usually (despite being very important to teach as very first example);
 - It ranges between -15°C and 50°C, which allows studying snow making and cooling towers with a single chart.

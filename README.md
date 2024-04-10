@@ -4,7 +4,7 @@ A high definition psychrometric chart for teaching humidification operations wit
 I used this precise chart as student in chemical engineering around 1999 and use it for teaching the same since 2007. I never got used to another one as this is by far the most comprehensive version I've ever found, it contains some unusual (and very handy) features:
 - The iso-enthalpy lines and the wet bulb temperature are drawn separately, which is very uncommon as both are generally confused;
 - A compass to generate the unit operation of air saturation with the minimal quantity of a given water source is given, as it is rather difficult to plot usually (despite being very important to teach as very first example);
-- It ranges between -15°C and 50°C, which allows studying problems from snow-blowers to cooling towers for nuclear energy with a single chart;
+- It ranges between -15°C and 50°C, which allows studying problems from snow-blowers to cooling towers for Rankine cycles with a single chart;
 - The enthalpy units are in kilocalories per kg on purpose. It allows simplifying a calculation step for cooling towers, because the specific heat capacity of water is by definition 1 kcal/kg.
 
  I've modified some parts of the original chart:

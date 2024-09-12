@@ -20,5 +20,5 @@ Why not using a code for doing this ? Because pen and paper are enough !
 ## What the chart looks like
 ![](/Psychrometric_chart.png)
 
-## Detail of the in house comfort zone
+## Detail of the indoor comfort zone
 ![](/Psychrometric_chart.png)
